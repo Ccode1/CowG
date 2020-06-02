@@ -27,26 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec98eac9-218b-46eb-97ba-cc3e703b5890" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CowG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/Quack_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Argument/Shell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/NumberOf1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/StrToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Question/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Argument/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Argument/Hanoi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +208,7 @@
       <workItem from="1590851200967" duration="261000" />
       <workItem from="1590892819652" duration="4340000" />
       <workItem from="1590978843420" duration="9382000" />
-      <workItem from="1591076387528" duration="1267000" />
+      <workItem from="1591076387528" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="6.01更新">
       <created>1591023129816</created>
@@ -256,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591076828581</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit fe27220f">
+      <created>1591077907400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591077907400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,10 +301,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1099" y="275" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590821640218" />
-    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1591076824119">
+    <state x="558" y="91" key="CommitChangelistDialog2" timestamp="1591077899083">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591076824119" />
+    <state x="558" y="91" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1591077899083" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1591024841703">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -332,22 +321,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="789" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590851406489" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1591076757296">
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom" timestamp="1591078582788">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591076757296" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1591076757296">
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591078582788" />
+    <state width="1877" height="133" key="GridCell.Tab.0.center" timestamp="1591078582788">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591076757296" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1591076757296">
+    <state width="1877" height="133" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591078582788" />
+    <state width="1877" height="133" key="GridCell.Tab.0.left" timestamp="1591078582788">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591076757296" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1591076757296">
+    <state width="1877" height="133" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591078582788" />
+    <state width="1877" height="133" key="GridCell.Tab.0.right" timestamp="1591078582788">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591076757296" />
+    <state width="1877" height="133" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591078582788" />
     <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1590851184420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -368,10 +357,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591077313027" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591077600520">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591077924820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591077600520" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591077924820" />
     <state x="749" y="258" key="VcsDiffUtil.ChangesDialog" timestamp="1591023495282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -388,10 +377,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1067" y="422" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050@0.0.1920.1050" timestamp="1590821551206" />
-    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591076492585">
+    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591077762041">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591076492585" />
+    <state x="753" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591077762041" />
     <state x="324" y="308" width="929" height="569" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590139383482">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -400,6 +389,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="636" y="258" width="681" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590809334313" />
+    <state x="681" y="311" key="git4idea.merge.GitPullDialog" timestamp="1591078996985">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591078996985" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1590848969358">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
